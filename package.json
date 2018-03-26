@@ -1,0 +1,29 @@
+{
+  "name": "adultswimchatlogger",
+  "version": "1.0.0",
+  "description": "Adult Swim Chat Logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubergarm/adultswimchatlogger.git"
+  },
+  "keywords": [
+    "adultswim",
+    "livestream",
+    "chat",
+    "firebase"
+  ],
+  "bugs": {
+    "url": "https://github.com/ubergarm/adultswimchatlogger/issues"
+  },
+  "homepage": "https://github.com/ubergarm/adultswimchatlogger#readme",
+  "author": "John Leimgruber III",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^4.12.0",
+    "firebase-messaging": "^1.0.6"
+  }
+}
